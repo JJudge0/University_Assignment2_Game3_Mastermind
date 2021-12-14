@@ -10,3 +10,33 @@ Game 3--Mastermind Main task:
 ####  4) Variations: • Student A: At the start of the game, the player should be able to choose the number of the colours in the range (6-10), the number of colours in the code (3 or 4), and the maximum number of guesses allowed. At the end of each game, a score should be displayed. The score is calculated by taking the number of guesses remaining, adding the number of colours in the range, then adding the number of colours in the code. 
 
 ####  5)• Student B: The player should be able to choose whether they want to play with repeating colours in the code or not. If they choose to play with repeating colours, the game should correctly support this through the gameplay. Ideas for additional functionalities for either variation (optional): ➢ The program keeps the player vs computer score; for example, if the player has won a game, the score is 1-0. If the player continues playing, the score should be updated after each game, accordingly. ➢ Your own ideas.
+
+#### -----------------------------------------------------------My University Project-----------------------------------------------
+
+### Contains 3 files called:
+#### 1) MasterMind main game file
+#### 2) Player name file
+#### 3) Settings file
+
+
+## Screenshots
+
+![image](![image](https://user-images.githubusercontent.com/73240114/145914149-fc29997f-db8f-4a2a-a0ba-2f589f8e622c.png)
+
+
+#### Example
+Going into the **Setting Option**: 
+![image](![image](https://user-images.githubusercontent.com/73240114/145914244-502392ec-377c-472f-aeeb-7cf9215f2813.png)
+
+## Requirements 🔧
+Java version 8 or higher.
+
+## Installation 🔌
+#### 1) Press the Fork button (top right the page) to save copy of this project on your account.
+
+#### 2) Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+#### 3) git clone https://github.com/JJudge0/Assignment2_Game3_Mastermind.git
+Import it in VS CODE or any other Java IDE.
+
+Run the application :D

@@ -1,4 +1,4 @@
-# Assignment2_Game3_Mastermind
+# University_Assignment2_Game3_Mastermind
 Game 3--Mastermind Main task: 
 
 ####  1) The program should allow the user to play Mastermind against the computer. The computer should generate a random code of four colours from a range of six different colours (e.g., Red, Green, Blue, Yellow, Orange, Pink). There should not be any repeating colours in the generated code. 

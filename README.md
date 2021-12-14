@@ -21,12 +21,15 @@ Game 3--Mastermind Main task:
 
 ## Screenshots
 
-![image](![image](https://user-images.githubusercontent.com/73240114/145914149-fc29997f-db8f-4a2a-a0ba-2f589f8e622c.png)
+![image](https://user-images.githubusercontent.com/73240114/145914149-fc29997f-db8f-4a2a-a0ba-2f589f8e622c.png)
 
 
 #### Example
 Going into the **Setting Option**: 
-![image](![image](https://user-images.githubusercontent.com/73240114/145914244-502392ec-377c-472f-aeeb-7cf9215f2813.png)
+![image](https://user-images.githubusercontent.com/73240114/145914244-502392ec-377c-472f-aeeb-7cf9215f2813.png)
+
+Going into the **Playing the game**: 
+![image](https://user-images.githubusercontent.com/73240114/145915743-ddb59e75-cd43-4013-b0b8-9b51a37fdc9a.png)
 
 ## Requirements 🔧
 Java version 8 or higher.
